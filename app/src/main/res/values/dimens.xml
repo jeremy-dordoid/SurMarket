@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fragments -->
+    <dimen name="FRGContainerPadding">16dp</dimen>
+    <dimen name="FRGTitleTextSize">18sp</dimen>
+    <dimen name="FRGLabelTextSize">15sp</dimen>
+    <dimen name="FRGLabelMarginBottom">8dp</dimen>
+    <dimen name="FRGInputHeight">56dp</dimen>
+    <dimen name="FRGInputTextSize">15sp</dimen>
+    <dimen name="FRGInputPadding">16dp</dimen>
+    <dimen name="FRGInputCornerRadius">12dp</dimen>
+    <dimen name="FRGInputMarginBottom">24dp</dimen>
+    <dimen name="FRGLinkTextSize">13sp</dimen>
+    <dimen name="FRGButtonHeight">56dp</dimen>
+    <dimen name="FRGButtonCornerRadius">28dp</dimen>
+    <dimen name="FRGButtonMarginBottom">8dp</dimen>
+</resources>

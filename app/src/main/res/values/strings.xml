@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Surmarket</string>
+
+    <!-- Fragment Login -->
+    <string name="FRGLogin_Title">Iniciar sesión</string>
+    <string name="FRGLogin_UsernameLabel">Nombre de usuario</string>
+    <string name="FRGLogin_UsernameHint">Ingresa tu nombre de usuario</string>
+    <string name="FRGLogin_PasswordLabel">Contraseña</string>
+    <string name="FRGLogin_PasswordHint">Ingresa tu contraseña</string>
+    <string name="FRGLogin_RecoverPassword">Recuperar contraseña</string>
+    <string name="FRGLogin_LoginButton">Iniciar sesión</string>
+    <string name="FRGLogin_RegisterButton">Regístrate aquí</string>
+</resources>
