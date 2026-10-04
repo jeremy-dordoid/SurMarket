@@ -39,7 +39,7 @@
         android:layout_marginBottom="@dimen/FRGLabelMarginBottom"
         />
     <EditText
-        android:id="@+id/EDT_FRGLogin_Username"
+        android:id="@+id/ETX_FRGLogin_UserName"
         android:layout_width="match_parent"
         android:layout_height="@dimen/FRGInputHeight"
         android:background="@drawable/bg_frg_input"
@@ -62,7 +62,7 @@
         android:layout_marginBottom="@dimen/FRGLabelMarginBottom"
         />
     <EditText
-        android:id="@+id/EDT_FRGLogin_Password"
+        android:id="@+id/ETX_FRGLogin_Password"
         android:layout_width="match_parent"
         android:layout_height="@dimen/FRGInputHeight"
         android:background="@drawable/bg_frg_input"
