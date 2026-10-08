@@ -55,9 +55,17 @@ class FragmentLogin : Fragment() {
             return
         }
         if (verifyCredentials(user, password)) {
-            Toast.makeText(requireContext(), getString(R.string.loginWelcome), Toast.LENGTH_SHORT).show()
+            Toast.makeText(
+                requireContext(),
+                "Bienvenido a SurMarket",
+                Toast.LENGTH_SHORT
+            ).show()
         } else {
-            Toast.makeText(requireContext(), getString(R.string.loginError), Toast.LENGTH_SHORT).show()
+            Toast.makeText(
+                requireContext(),
+                getString(R.string.loginError),
+                Toast.LENGTH_SHORT
+            ).show()
         }
     }
 

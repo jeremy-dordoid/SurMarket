@@ -10,6 +10,7 @@
     <string name="FRGLogin_RecoverPassword">Recuperar contraseña</string>
     <string name="FRGLogin_LoginButton">Iniciar sesión</string>
     <string name="FRGLogin_RegisterButton">Regístrate aquí</string>
+    <string name="labelLoginFragment">Iniciar sesión</string>
     <string name="loginWelcome">Bienvenido</string>
     <string name="loginError">Usuario o contraseña incorrectos</string>
     <string name="userEmpty">Ingresa tu nombre de usuario</string>
