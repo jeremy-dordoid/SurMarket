@@ -15,4 +15,11 @@
     <string name="loginError">Usuario o contraseña incorrectos</string>
     <string name="userEmpty">Ingresa tu nombre de usuario</string>
     <string name="passwordEmpty">Ingresa tu contraseña</string>
+
+    <!-- Fragment Products List -->
+    <string name="FRGProductsList_Title">Tienda Virtual SurMarket</string>
+    <string name="FRGProductsList_SearchHint">Buscar producto</string>
+    <string name="FRGProductsList_BTNAddProduct">Añadir producto</string>
+    <string name="search">Buscar</string>
+    <string name="shoppingCart">Carrito de compras</string>
 </resources>
