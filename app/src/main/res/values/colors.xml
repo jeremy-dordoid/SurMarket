@@ -14,4 +14,5 @@
     <color name="FRGInputBackground">#FFE8EDF2</color>
     <color name="FRGTextPrimary">#FF0D141C</color>
     <color name="FRGTextHint">#FF4F7396</color>
+    <color name="gray">#FFEEEEEE</color>
 </resources>
