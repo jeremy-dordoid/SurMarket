@@ -44,7 +44,7 @@
     <string name="FRGAddProduct_TXVProductDescription">Descripción</string>
     <string name="FRGAddProduct_ETXProductDescription">Descripción</string>
     <string name="category_men">Ropa de Varón</string>
-    <string name="category_women">Ropa de Dama</string>
+    <string name="category_women">Ropa de Mujer</string>
     <string name="category_children">Ropa de Niños</string>
     <string name="category_baby">Ropa de Bebé</string>
     <string name="category_shoes">Calzados</string>
@@ -52,5 +52,6 @@
     <string name="category_other">Otros / Varios</string>
     <string name="availability_available">Disponible</string>
     <string name="availability_not_available">No disponible</string>
-    <string name="FRGAddProduct_BTNAddProduct">Añadir producto</string>
+    <string name="FRGAddProduct_BTNAddProduct">Añadir Producto</string>
+    <string name="addProduct">Añadir nuevo Producto</string>
 </resources>

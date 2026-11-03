@@ -49,7 +49,8 @@ class FragmentProductsList : Fragment() {
     }
 
     private fun configureListeners() {
-        BTN_FRGProductsList_AddProduct.setOnClickListener {
+        BTN_FRGProductsList_AddProduct.setOnClickListener() {
+            Toast.makeText(requireContext(), getString(R.string.addProduct), Toast.LENGTH_SHORT).show()
             findNavController().navigate(R.id.action_products_list_to_add_product)
         }
     }
