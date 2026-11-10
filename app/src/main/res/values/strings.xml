@@ -54,4 +54,26 @@
     <string name="availability_not_available">No disponible</string>
     <string name="FRGAddProduct_BTNAddProduct">Añadir Producto</string>
     <string name="addProduct">Añadir nuevo Producto</string>
+
+    <!-- Fragment Profile -->
+    <string name="FRGProfile_AvatarDescription">Foto de perfil</string>
+    <string name="FRGProfile_SampleUserName">Usuario123</string>
+    <string name="FRGProfile_SampleUserId">ID: 456789</string>
+    <string name="FRGProfile_TXVEmail">Email</string>
+    <string name="FRGProfile_SampleEmail">usuario123@email.com</string>
+    <string name="FRGProfile_TXVFullName">Nombre completo</string>
+    <string name="FRGProfile_SampleFullName">Juan Pérez</string>
+    <string name="FRGProfile_TXVPhone">Teléfono</string>
+    <string name="FRGProfile_SamplePhone">+52 55 1234 5678</string>
+    <string name="FRGProfile_TXVAddress">Dirección</string>
+    <string name="FRGProfile_SampleAddress">Calle Principal 123, Ciudad, Estado</string>
+    <string name="FRGProfile_TXVRegisterDate">Fecha de registro</string>
+    <string name="FRGProfile_SampleRegisterDate">15 de marzo de 2023</string>
+    <string name="FRGProfile_TXVLastAccess">Último acceso</string>
+    <string name="FRGProfile_SampleLastAccess">20 de mayo de 2024, 10:30 AM</string>
+    <string name="FRGProfile_TXVGroups">Grupos</string>
+    <string name="FRGProfile_SampleGroups">Administradores, Usuarios</string>
+    <string name="FRGProfile_TXVPermissions">Permisos</string>
+    <string name="FRGProfile_SamplePermissions">Leer, Escribir, Eliminar</string>
+    <string name="FRGProfile_BTNChangePassword">Cambiar contraseña</string>
 </resources>
