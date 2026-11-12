@@ -55,6 +55,13 @@
     <string name="FRGAddProduct_BTNAddProduct">Añadir Producto</string>
     <string name="addProduct">Añadir nuevo Producto</string>
 
+    <!-- Bottom Navigation -->
+    <string name="home">Inicio</string>
+    <string name="profile">Perfil</string>
+    <string name="cart">Carrito</string>
+    <string name="labelProfileFragment">Perfil</string>
+    <string name="labelCartFragment">Carrito</string>
+
     <!-- Fragment Profile -->
     <string name="FRGProfile_AvatarDescription">Foto de perfil</string>
     <string name="FRGProfile_SampleUserName">Usuario123</string>
